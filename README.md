@@ -31,8 +31,8 @@ This project is a personal portfolio landing page developed for CCC181: Applicat
 
 ### Terminal Screenshot
 This screenshot shows the BSL web server running successfully using `bzg run`.
-![Terminal Screenshot](public/screenshots/terminal ss.png)
+![Terminal Screenshot](public/screenshots/terminal-ss.png)
 
 ### Browser Screenshot
 This screenshot shows the personal portfolio website rendered in the browser.
-![Browser Screenshot](public/screenshots/browser ss.png)
+![Browser Screenshot](public/screenshots/browser-ss.png)
